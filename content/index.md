@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: nisopen
 ---
+>[!tip] Открытый, доступный и удобный!
+>Здесь вы можете смотреть все презентации и домашние задания для ваших уроков!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Пока что доступные предметы:
+- [[Математика 12 класс]]
+- [[Химия 12 класс]]
+
+Скоро будет
+- [[Информатика 12 класс]]

@@ -8,11 +8,11 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🌱 nisopen",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "umami", host:"https://cloud.umami.is/script.js", websiteId:"3c8240a7-2b9d-448f-9915-ddd2f426122f"
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
