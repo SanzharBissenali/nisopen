@@ -10,7 +10,7 @@ title: Программирование  11 класс
 1) [Introduction to Python](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/Intro-to-Python..pdf)
 2) [Linear and brancing algorithms](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/Linear-and-branching-algorithms.pdf)
 3) [For loop (1)](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/for-loop.pdf), [For loop (2)](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/Python-for-loops.pdf)
-4) [While loop lesson 1](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/While-loop.pdf), [While loop lesson 2](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/While-loop-lesson2.pdf)
+4) [While loop lesson (1)](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/While-loop.pdf), [While loop lesson (2)](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/While-loop-lesson2.pdf)
 5) [Revision](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.1A/11.1A-Revision.pdf)
 
 **11.2A Data structures**
@@ -26,4 +26,4 @@ title: Программирование  11 класс
 **11.3B Functions**
 1) [Class and Inheritance (1)](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.4A/Class-Inheritance-1.pdf), [Class and Inheritance (2)](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.4A/Class-Inheritance-2.pdf)
 2) [Classes and Objects](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.4A/Classes-and-Objects.pdf)
-3) [Term RevisionProgramming](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.4A/Programming.pdf)
+3) [Term Revision Programming](https://nisopen.ams3.cdn.digitaloceanspaces.com/11/Programming/1-term/11.4A/Programming.pdf)
