@@ -39,7 +39,7 @@ title: Математика 12 класс
 3) [Презентация 15: Жоғары дәрежелі теңдеулер](https://nisopen.ams3.cdn.digitaloceanspaces.com/12/Math/1-term/5-week/Zhogary-darezheli-tendeyler-presentation.pdf), [Есептер 15](https://nisopen.ams3.cdn.digitaloceanspaces.com/12/Math/1-term/5-week/Zhogary-darezheli-tendeyler-esepter.pdf)
 
 **6 Апта:**
-1) [Есептер 16: Қатарлар ](https://nisopen.ams3.cdn.digitaloceanspaces.com/12/Math/1-term/6-week/12-synyp-katarlar-presentation.pdf)
+1) [Презентация 16: Қатарлар](https://nisopen.ams3.cdn.digitaloceanspaces.com/12/Math/1-term/6-week/katarlar-presentation.pdf),[Есептер 16: Қатарлар ](https://nisopen.ams3.cdn.digitaloceanspaces.com/12/Math/1-term/6-week/katarlar-esepter.pdf)
 
 ---
 ### Календарь
